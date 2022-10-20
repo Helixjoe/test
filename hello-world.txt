@@ -1,3 +1,7 @@
 this is a test and this has changed
+<<<<<<< HEAD
 
 second line is great
+=======
+my name is bob
+>>>>>>> 6a41af415b73dac38844f6fa703168a04f1c3cf8
